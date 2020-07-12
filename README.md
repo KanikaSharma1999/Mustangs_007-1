@@ -7,4 +7,6 @@ For this we analysed the data using data visualization techniques and then comin
 
 PLAN: Our plan is to build a web app or a website where users can upload their datasets and our system will be able to forecast the demand of food at particular center. Governments provides food items to various centers to help needy people of our community , so our application can help government schemes to be implemented in better way. This application can also be used by fast food chains to avoid loss and will be able to pre-plan their food distribution in a better way to avoid wastage of resources and to earn profit.
 
-Link: https://drive.google.com/file/d/1pDbm8BMqRgUuUqkaiPC_eJf1rafH519r/view?usp=sharing
+PPT Link: https://drive.google.com/file/d/1pDbm8BMqRgUuUqkaiPC_eJf1rafH519r/view?usp=sharing
+Kaggal Link : https://www.kaggle.com/sreshta140/time-series-various-models-version-2-0
+ 
